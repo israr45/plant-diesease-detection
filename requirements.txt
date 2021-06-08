@@ -1,5 +1,5 @@
 fastai==0.7.0
-torch==0.4
+torch==0.4.0
 python-multipart==0.0.5
 Flask==1.1.1
 gunicorn==19.9.0
